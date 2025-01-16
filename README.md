@@ -1,7 +1,8 @@
 # Dead Pixel Checker
 
 Dead Pixel Checker is a simple and interactive web application to help you quickly identify dead or stuck pixels on your screen. With an easy-to-use interface, this tool allows you to test your display's clarity and ensure every pixel is functioning as expected.
-###Live Demo: https://anasnaveed331.github.io/Dead-Pixel-check-Website/
+
+Live Demo: https://anasnaveed331.github.io/Dead-Pixel-check-Website/
 ---
 
 ## Features
