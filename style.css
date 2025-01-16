@@ -1,0 +1,95 @@
+/* Default value to all body and html  */
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    font-family: sans-serif;
+   
+}
+
+
+
+/* Header section styling */
+.header{
+    background-color: rgb(0, 0, 0);
+    padding: 5rem;
+   
+
+}
+
+
+.Hero_Section{
+    background-color:rgb(0, 0, 0);
+    color:aqua
+}
+
+.heading{
+    color:aqua
+}
+
+.para_under_heading{
+    color: white;
+}
+
+
+
+/* Main Sections boxes */
+
+main{
+    
+    background-color: rgb(0, 0, 0);
+  
+}
+.main_boxes{
+    padding: 5em;
+    background-color: black;
+}
+
+
+.intro_box,.why-check_box,.how-it-works_box{
+    border: white solid;
+    padding: 1rem;
+    margin-bottom: 5%;
+}
+.h2_box{
+    color: aqua;
+    font-size: 1.5em;
+}
+.text_box{
+    color: white;
+    font-size: 1em;
+}
+
+
+/* call to action section */
+
+.cta{
+    padding: 5em;
+}
+.cta_h2{
+    color: aqua;
+}
+.cta_text{
+    color:white
+}
+
+.btn{
+    padding: 1em;
+    margin: 10px;
+    border-radius: 15px;
+    font-size: 2rem;
+    color: black;
+
+}
+
+a{
+    color:white;
+    font-weight: bolder;
+}
+
+b{
+    color: red;
+}
+
