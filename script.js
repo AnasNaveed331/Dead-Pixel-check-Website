@@ -2,7 +2,7 @@
 const html = document.querySelector(".color_html");
 
 // Define an array of colors to toggle through
-const colors = ["blue", "black", "white"];
+const colors = ["blue", "black", "white","green","red"];
 let currentColorIndex = 0; // Initial color index
 
 // Function to change the background color
